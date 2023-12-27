@@ -3,7 +3,7 @@
 ## Требования: docker, docker-compose
 
 Шаги запуска приложения: 
-1) склонируйте проект в удобную для вас директорию с помощью команды git clone https://github.com/vovamishenskiy/router-nodejs-docker.git
+1) склонируйте проект в удобную для вас директорию с помощью команды git clone https://github.com/vovamishenskiy/router-nodejs-docker.git и перейдите в локальную папку склонированного репозитория
 
 2) выполните команду bash chmod +x run.sh stop.sh
 
