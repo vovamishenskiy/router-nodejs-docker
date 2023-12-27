@@ -1,6 +1,6 @@
 # Мини-роутер, написанный на NodeJS. 
 
-# Требования: docker, docker-compose
+## Требования: docker, docker-compose
 
 Шаги запуска приложения: 
 1) склонируйте проект в удобную для вас директорию с помощью команды git clone https://github.com/vovamishenskiy/router-nodejs-docker.git
