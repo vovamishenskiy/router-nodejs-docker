@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+</head>
+<body>
+    <h1>Main Page</h1>
+    <button onclick="navigateTo('/pages/page1')">Page 1</button>
+    <button onclick="navigateTo('/pages/page2')">Page 2</button>
+    <button onclick="navigateTo('/pages/page3')">Page 3</button>
+
+    <div id="content-container"></div>
+
+    <script>
+        const navigateTo = (url) => {
+            window.location.href = url
+        }
+    </script>
+</body>
+</html>
